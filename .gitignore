@@ -1,0 +1,15 @@
+@"
+# Ignore build and IDE files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.idea/
+.vscode/
+.DS_Store
+*.nupkg
+.packages/
+"@ > .gitignore
